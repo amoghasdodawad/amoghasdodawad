@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoghasdodawad&label=Profile%20views&color=0e75b6&style=flat" alt="amoghasdodawad" /> </p>
 
 - 📫 How to reach me **amoghasdodawad@gmail.com**
-<a href=https://github.com/amoghasdodawad>Link to my personal Github.</a>
+- <a href=https://github.com/amoghdodawad>Link to my personal Github.</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amoghdodawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amoghdodawad" height="30" width="40" /></a>
